@@ -1,0 +1,4 @@
+model_dir: "./models"
+rationale_dir: "./rationales"
+results_dir: "./results"
+data_dir: "/Users/wnd306/OneDrive - University of Copenhagen/Data/Neuro/QAmGaze"
